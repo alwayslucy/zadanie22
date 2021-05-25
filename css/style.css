@@ -1,0 +1,15 @@
+h1 {
+    background-color: rgb(127, 255, 212);
+}
+
+h3 {
+    background-color: rgb(255, 228, 196);
+}
+
+p {
+    color: rgb(13, 95, 13);
+}
+
+h1 + h3 {
+    color: rgb(235, 11, 11);
+}
